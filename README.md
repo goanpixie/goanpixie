@@ -4,7 +4,7 @@
 - 💬 Ask me about books I am reading
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=goanpixie&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goanpixie&hide=ruby&theme=tokyonight&layout=compact&?hide=Ruby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goanpixie&hide=ruby,css&theme=tokyonight&layout=compact&?hide=Ruby)
 
 
 
