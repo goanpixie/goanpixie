@@ -1,4 +1,6 @@
-# Hi, I am Priyanka 🤠
+# Hi, I am Priyanka Shah 🤠
+
+<img src="" alt="banner that says Priyanka Shah - software engineer, yoga instructor alongside a cartoon illustration of Monica">
 
 - 🌱 I’m currently mastering React and JavaScript
 - 💬 Ask me about books I am reading
